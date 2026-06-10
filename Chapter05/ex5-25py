@@ -1,0 +1,6 @@
+eights = ["Edgar Allan Poe", "Charles Dickens"]
+nines = ["Hemingaway", "Fitzgeald", "Orwell"]
+
+authors = (eights, nines)
+print(authors)
+
